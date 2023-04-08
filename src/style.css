@@ -82,6 +82,12 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+.boll {
+  width: 4rem;
+  height: 4rem;
+  background-color: red;
+  border-radius: 50%;
+}
 
 @media (prefers-color-scheme: light) {
   :root {
